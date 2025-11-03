@@ -1,0 +1,5 @@
+{
+  "name": "Pandoc Web",
+  "description": "A user-friendly web application that simplifies document format conversion, inspired by the powerful Pandoc tool. Easily convert your text between formats like Markdown, HTML, and more with clear instructions and a simple interface.",
+  "requestFramePermissions": []
+}
